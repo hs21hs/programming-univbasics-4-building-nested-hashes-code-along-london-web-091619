@@ -7,8 +7,8 @@ def first_challenge
 :hero_friends => []},
   
   :capulet => {
-    :patriarch => {:name =>"Lord Montague",:age => "53"},
-:matriarch => {},
+    :patriarch => {:name =>"Lord Capulet",:age => "53"},
+:matriarch => {:name =>"Lady Capulet",:age => "53"},
 :heroine =>{},
 :heroine_friends => []}
    }
